@@ -19,3 +19,6 @@ This dataset contains 4 tables in CSV format
 - The Pizzas table contains the size and price for each distinct pizza in the Order Details table, as well as its broader pizza type
 - The Pizza Types table contains details on the pizza types in the Pizzas table, including their name as it appears on the menu, the category it falls under, and its list of ingredients
 
+
+Link to the dashboard:
+https://app.powerbi.com/view?r=eyJrIjoiNjFkZWY0YzAtNTFhNC00ZTBjLTlkODUtNzVlOWE3OWNkMjk3IiwidCI6ImNhOWE4YjhjLTNlYTMtNDc5OS1hNDNlLTU1MTAzOThlN2EzYiIsImMiOjh9&pageName=ReportSection
